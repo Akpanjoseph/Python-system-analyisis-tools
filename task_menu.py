@@ -83,4 +83,8 @@ while True:
             print(f"{Options} is not a command option ")
 
   except Exception:
-    print("inva
+    print("invailed command entered")
+
+ 
+
+    
